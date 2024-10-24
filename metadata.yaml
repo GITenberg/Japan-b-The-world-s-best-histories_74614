@@ -1,0 +1,32 @@
+_repo: Japan-b-The-world-s-best-histories_74614
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Willets, Gilson
+    gutenberg_agent_id: '57577'
+    url: http://www.gutenberg.org/2009/agents/57577
+creator:
+  author:
+    agent_name: Dickson, Walter G.
+    alias: Dickson, W. G. (Walter G.)
+    gutenberg_agent_id: '57516'
+    url: http://www.gutenberg.org/2009/agents/57516
+description: ''
+gutenberg_issued: '2024-10-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74614'
+language: en
+pgterms:marc905: 20181026155425dickson
+pgterms:marc906: '1898'
+pgterms:marc907: United States
+production_note: D A Alexander, David E. Brown, Natrona County Library, Casper, WY,
+  and the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aUnited States :$bThe Co-operative Publication Society, $c1898.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Japan : $b The world''s best histories'
+url: http://www.gutenberg.org/ebooks/74614
