@@ -5,6 +5,9 @@ contributor:
     agent_name: Willets, Gilson
     gutenberg_agent_id: '57577'
     url: http://www.gutenberg.org/2009/agents/57577
+covers:
+- cover_type: archival
+  image_path: 74614-h/images/coversmall.jpg
 creator:
   author:
     agent_name: Dickson, Walter G.
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '57516'
     url: http://www.gutenberg.org/2009/agents/57516
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74614#Japan-b-The-world-s-best-histories
 gutenberg_issued: '2024-10-21'
 gutenberg_type: Text
 identifiers:
